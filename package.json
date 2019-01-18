@@ -1,0 +1,13 @@
+{
+    "id": "zoho-mail",
+    "name": "Zoho Mail",
+    "version": "1.0.0",
+    "description": "Email designed with businesses in mind",
+    "main": "index.js",
+    "author": "ZohoMail <support@zohomail.com>",
+    "license": "Apache-2.0",
+    "config": {
+      "serviceURL": "https://accounts.zoho.com/signin?servicename=VirtualOffice&serviceurl=https://mail.zoho.com/zm/",
+      "hasNotificationSound": true
+    }
+  }
