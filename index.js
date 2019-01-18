@@ -1,2 +1,2 @@
-// just pass through Franz
+// Just pass-through Franz
 module.exports = Franz => Franz;
